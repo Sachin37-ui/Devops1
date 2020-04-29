@@ -4,3 +4,7 @@ dv
 [C
 sachin
 is great
+jaldi karo
+nhi to
+class suru
+ho jaigi
